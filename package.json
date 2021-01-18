@@ -8,7 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "winston-elasticsearch": "^0.7.0"
     
   }
 }
